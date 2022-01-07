@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Freelancer Noman</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Fulltime freelance WordPress and WooCommerce Developer</description>
+	<lastBuildDate>Sun, 02 Jan 2022 09:11:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>./../wp-content/uploads/2021/12/favicon-min.png</url>
+	<title>Freelancer Noman</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Work setup</title>
+		<link>./../my-work-setup/index.html</link>
+					<comments>./../my-work-setup/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 11:00:28 +0000</pubDate>
+				<category><![CDATA[Rndom]]></category>
+		<category><![CDATA[Desk]]></category>
+		<category><![CDATA[IDE]]></category>
+		<category><![CDATA[Setup]]></category>
+		<guid isPermaLink="false">./../index.html?p=422</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../my-work-setup/index.html">My Work setup</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		
+		<div id="wd-61a0d5c7a9b4d" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-rs-61a0d5c7a9b4d wd-title-color-primary wd-underline-colored wd-title-style-simple wd-width-100 text-left vc_custom_1637930634969">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-xl" >Favorite IDE/Code Editor = VS Code</h4>
+							</div>
+			
+							<div class="title-after_title  set-cont-mb-s reset-last-child  wd-fontsize-s">mainly program PHP. Mostly I develop in VS Code. Using default Dark + Theme with few Plugins (Apache Conf, Beautify, Code Runner, Fig, GistPad, Laravel Blade Snippets, Live Server, Material Icon Theme, PHP Debug, PHP Intelephense, SFTP, WordPress Snippets)</div>
+			
+			
+		</div>
+		
+		
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a class="" data-lightbox="lightbox[rel-422-1558538448]" href="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-1024x564.jpg" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="2560" height="1410" src="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-scaled.jpg" class="vc_single_image-img attachment-full" alt="" title="IDE Setup" srcset="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-scaled.jpg 2560w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-300x165.jpg 300w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-1024x564.jpg 1024w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-768x423.jpg 768w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-1536x846.jpg 1536w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-6.01.34-PM-2048x1128.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		
+		<div id="wd-61a0d6f248e96" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-rs-61a0d6f248e96 wd-title-color-primary wd-underline-colored wd-title-style-simple wd-width-100 text-left vc_custom_1637930814113">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-xl" >My current setup (end 2021 edition)</h4>
+							</div>
+			
+							<div class="title-after_title  set-cont-mb-s reset-last-child  wd-fontsize-s">Big fan of macOS and Machanical keyboard. Really love the Keychrone K2 and Magic Mouse <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f923.png" alt="🤣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </div>
+			
+			
+		</div>
+		
+		</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1637928155303"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		<div class="wd-image-hotspot-wrapper hotspot-action-hover hotspot-icon-default color-scheme-dark ">
+			<div class="wd-image-hotspot-hotspots">
+				<img width="2560" height="1920" src="./../wp-content/uploads/2021/11/IMG_5006-min-scaled.jpg" class="wd-image-hotspot-img attachment-full" alt="" title="IMG_5006-min" srcset="./../wp-content/uploads/2021/11/IMG_5006-min-scaled.jpg 2560w, ./../wp-content/uploads/2021/11/IMG_5006-min-300x225.jpg 300w, ./../wp-content/uploads/2021/11/IMG_5006-min-1024x768.jpg 1024w, ./../wp-content/uploads/2021/11/IMG_5006-min-768x576.jpg 768w, ./../wp-content/uploads/2021/11/IMG_5006-min-1536x1152.jpg 1536w, ./../wp-content/uploads/2021/11/IMG_5006-min-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><div class="wd-image-hotspot hotspot-type-text" style="left: 26.073%; top: 22.087%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">LG 27&#039;&#039; UltraFine UHD IPS USB-C HDR Monitor</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 64.988%; top: 62.000%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Ergo Stand - Comes with monitor</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 49.493%; top: 71.926%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Keychron K2 - Wireless Mechanical Keyboard</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 50.546%; top: 77.851%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Keychron Wooden Palm Rest</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 93.482%; top: 57.843%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">MacBook Pro 2020 M1</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 72.443%; top: 76.240%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Apple Magic Mouse 2</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 24.200%; top: 89.752%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Grid Table</h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 21.780%; top: 52.074%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Homemade real Plant <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1fab4.png" alt="🪴" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h4></div></div><div class="wd-image-hotspot hotspot-type-text" style="left: 24.707%; top: 2.806%;"><span class="hotspot-sonar"></span><div class="hotspot-btn wd-fill"></div><div class="hotspot-text hotspot-content hotspot-dropdown-left"><h4 class="wd-entities-title">Art <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f3a8.png" alt="🎨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h4></div></div>			</div>
+		</div>
+		</div></div></div></div>
+<p>The post <a rel="nofollow" href="./../my-work-setup/index.html">My Work setup</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../my-work-setup/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fix Endless loading/spinner on the checkout page</title>
+		<link>./../fix-endless-loading-spinner-on-the-checkout-page/index.html</link>
+					<comments>./../fix-endless-loading-spinner-on-the-checkout-page/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Tue, 09 Nov 2021 23:10:45 +0000</pubDate>
+				<category><![CDATA[WooCommerce]]></category>
+		<guid isPermaLink="false">./../index.html?p=415</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../fix-endless-loading-spinner-on-the-checkout-page/index.html">Fix Endless loading/spinner on the checkout page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_custom_1641112473786 wd-rs-61d1638cccd65"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>Sometimes and it&#8217;s rare in the WooCommerce checkout page to show a &#8220;Spinner&#8221; on the Review Order section. It happens when something goes wrong &#8211; In order to fix the issue you may need to check <strong>WooCommerce &gt; System Status</strong> for errors – often errors will be highlighted.</p>
+<p>&nbsp;</p>
+<p>Still, having problems? Common causes and resolutions are listed below <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1641112963150 vc_row-has-fill wd-rs-61d1657ccd4a5"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		
+		<div id="wd-61d1656e623e0" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-rs-61d1656e623e0 wd-title-color-primary wd-underline-colored wd-title-style-default wd-width-100 text-left ">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-xl" >Fix#1 Transactional Emails causing trouble</h4>
+							</div>
+			
+			
+			
+		</div>
+		
+		
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>You can enable the following filter to defer emails from sending until after the order is sent through, which speeds things up:</p>
+<p>add_filter( &#8216;woocommerce_defer_transactional_emails&#8217;, &#8216;__return_true&#8217; );</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1641113398366 vc_row-has-fill wd-rs-61d167300343c"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		
+		<div id="wd-61d165e95ecb0" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-rs-61d165e95ecb0 wd-title-color-primary wd-underline-colored wd-title-style-default wd-width-100 text-left ">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-xl" >Fix#2 AJAX error due to WordPress settings.</h4>
+							</div>
+			
+			
+			
+		</div>
+		
+		
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>The URL’s in <strong>Settings &gt; General</strong> need to match – this is because AJAX requests don’t work across different domains:</p>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_border  vc_box_border_grey"><img width="2560" height="440" src="./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-scaled.jpg" class="vc_single_image-img attachment-full" alt="" title="Screen Shot 2022-01-02 at 2.46.13 PM" srcset="./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-scaled.jpg 2560w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-300x52.jpg 300w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-1024x176.jpg 1024w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-768x132.jpg 768w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-1536x264.jpg 1536w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.46.13-PM-2048x352.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1641113398366 vc_row-has-fill wd-rs-61d167300343c"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		
+		<div id="wd-61d1674fd26b0" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-rs-61d1674fd26b0 wd-title-color-primary wd-underline-colored wd-title-style-default wd-width-100 text-left ">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-xl" >Fix#3 Other JavaScript errors and conflicts</h4>
+							</div>
+			
+			
+			
+		</div>
+		
+		
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>Themes and plugins can often cause problems (especially poorly coded ones!) with JavaScript. To check for errors using your browser’s error console <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_border  vc_box_border_grey"><img width="1749" height="651" src="./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.51.53-PM.png" class="vc_single_image-img attachment-full" alt="" title="Screen Shot 2022-01-02 at 2.51.53 PM" srcset="./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.51.53-PM.png 1749w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.51.53-PM-300x112.png 300w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.51.53-PM-1024x381.png 1024w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.51.53-PM-768x286.png 768w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.51.53-PM-1536x572.png 1536w" sizes="(max-width: 1749px) 100vw, 1749px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1641113398366 vc_row-has-fill wd-rs-61d167300343c"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		
+		<div id="wd-61d1683d98c18" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-rs-61d1683d98c18 wd-title-color-primary wd-underline-colored wd-title-style-default wd-width-100 text-left ">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight-600 wd-fontsize-xl" >Fix#4 WP Memory Limit</h4>
+							</div>
+			
+			
+			
+		</div>
+		
+		
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p><strong>Edit your wp-config.php file</strong></p>
+<p>Wp-config.php is one of the most important WordPress files because it contains your base configuration details. You’ll find it in the root of your WordPress file directory. To edit the memory limit and upload limit, look for this line:</p>
+<p><code>define('WP_MEMORY_LIMIT', '32M');</code></p>
+<p>Modify the second parameter by increasing it. As I mentioned a PHP memory limit of 128M should be more than enough.</p>
+<p><code>define('WP_MEMORY_LIMIT', '128M');</code></p>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center vc_custom_1641114111572">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_border  vc_box_border_grey"><img width="3600" height="2852" src="./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM.png" class="vc_single_image-img attachment-full" alt="" title="Screen Shot 2022-01-02 at 2.58.38 PM" srcset="./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM.png 3600w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM-300x238.png 300w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM-1024x811.png 1024w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM-768x608.png 768w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM-1536x1217.png 1536w, ./../wp-content/uploads/2021/11/Screen-Shot-2022-01-02-at-2.58.38-PM-2048x1622.png 2048w" sizes="(max-width: 3600px) 100vw, 3600px" /></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div></div>
+<p>The post <a rel="nofollow" href="./../fix-endless-loading-spinner-on-the-checkout-page/index.html">Fix Endless loading/spinner on the checkout page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../fix-endless-loading-spinner-on-the-checkout-page/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How To Add New Currency To WooCommerce (BTC)</title>
+		<link>./../how-to-add-new-currency-to-woocommerce-btc/index.html</link>
+					<comments>./../how-to-add-new-currency-to-woocommerce-btc/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 23:21:33 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[Currency]]></category>
+		<guid isPermaLink="false">./../index.html?p=294</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../how-to-add-new-currency-to-woocommerce-btc/index.html">How To Add New Currency To WooCommerce (BTC)</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_custom_1635809498033 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>By default, WooCommerce has almost every Currency but sometimes you may need something extra like adding Cryptocurrency on your site but WooCommerce does not offer that. So that&#8217;s why here I&#8217;m! Here are 2 functions that utilized the WooCommerce Filter hook to add the new Currency to the Site.</p>
+<p>Where to use the code ?? <strong>Ans: Open your cPanel or FTP and navigate to wp-content/themes/your-theme/functions.php file.  &#8211; Paste the code bottom of the Page! Wow, you are done! </strong></p>
+<p><a href="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-5.30.09-AM.jpg" target="_blank" rel="noopener">Click to see an Example!</a></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<pre class="brush: php; title: ; notranslate">
+//Add New Currency in WooCommerce by using Filter Hook! Enjoy
+
+function nomanwc_add_new_currency( $currencies ) {
+     $currencies['BTC'] = __( 'Bitcoin', 'your-theme-text-domain' );
+     return $currencies;
+}
+add_filter( 'woocommerce_currencies', 'nomanwc_add_new_currency' );
+
+function nomanwc_add_new_currency_symbol( $symbol, $currency ) {
+
+     if( $currency == 'BTC' ) {
+          $symbol = '฿';
+     }
+     return $symbol;
+}
+add_filter( 'woocommerce_currency_symbol', 'nomanwc_add_new_currency_symbol', 10, 2 );
+
+</pre>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element vc_custom_1635869553039" >
+		<div class="wpb_wrapper">
+			<p>After adding the Code in the Functions.php the WooCommerce will Register the Currency but will not show in the Frontend. <strong>How to change the currency in WooCommerce ?? Ans: Go to WooCommerce &gt; Settings scroll down you will see the currency button.</strong></p>
+<p>&nbsp;</p>
+<p><img class="wp-image-304 size-full alignnone" src="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.56.03-PM.jpg" alt="" width="979" height="594" srcset="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.56.03-PM.jpg 979w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.56.03-PM-300x182.jpg 300w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.56.03-PM-768x466.jpg 768w" sizes="(max-width: 979px) 100vw, 979px" /></p>
+<p><img class="alignnone wp-image-305 size-full" src="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.57.02-PM.jpg" alt="" width="1940" height="1414" srcset="./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.57.02-PM.jpg 1940w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.57.02-PM-300x219.jpg 300w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.57.02-PM-1024x746.jpg 1024w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.57.02-PM-768x560.jpg 768w, ./../wp-content/uploads/2021/11/Screen-Shot-2021-11-02-at-9.57.02-PM-1536x1120.jpg 1536w" sizes="(max-width: 1940px) 100vw, 1940px" /></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element vc_custom_1635869783117" >
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Pretty Easy, Right?? <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f914.png" alt="🤔" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h3>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="./../how-to-add-new-currency-to-woocommerce-btc/index.html">How To Add New Currency To WooCommerce (BTC)</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../how-to-add-new-currency-to-woocommerce-btc/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Show Product Image on WooCommerce Checkout Page</title>
+		<link>./../show-product-image-on-woocommerce-checkout-page/index.html</link>
+					<comments>./../show-product-image-on-woocommerce-checkout-page/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Sat, 30 Oct 2021 08:26:34 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[Checkout]]></category>
+		<category><![CDATA[Image]]></category>
+		<guid isPermaLink="false">./../index.html?p=288</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../show-product-image-on-woocommerce-checkout-page/index.html">Show Product Image on WooCommerce Checkout Page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_custom_1635582569151"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>By default WooCommerce does not show products image on the Checkout page, Here is a small code that will help you to show the Image on the Checkout page.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<script src="https://gist.github.com/noman-work/fd0d1680f0561fd5fcfd1ff656233c60.js"></script>
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="./../show-product-image-on-woocommerce-checkout-page/index.html">Show Product Image on WooCommerce Checkout Page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../show-product-image-on-woocommerce-checkout-page/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Remove Additional Information Tab  from WooCommerce  Product Page</title>
+		<link>./../remove-additional-information-tab-from-woocommerce-product-page/index.html</link>
+					<comments>./../remove-additional-information-tab-from-woocommerce-product-page/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Sat, 30 Oct 2021 02:02:51 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[Product Page]]></category>
+		<category><![CDATA[Snippets]]></category>
+		<guid isPermaLink="false">./../index.html?p=272</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../remove-additional-information-tab-from-woocommerce-product-page/index.html">Remove Additional Information Tab  from WooCommerce  Product Page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_custom_1635559558994"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p>By Default WooCommerc includes the Additional Information Tab, It&#8217;s useful for some person also a distraction for some.</p>
+<p>&nbsp;</p>
+<p><strong>There is 2 way to remove it: </strong></p>
+<ol>
+<li>CSS (Easy and Quick)</li>
+<li>PHP (Best practice)</li>
+</ol>
+<p>&nbsp;</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p><strong>1. Here are the css code, Copy and Paste it on CSS Tab:</strong></p>
+<pre class="brush: css; title: ; notranslate">
+/* To hide the additional information tab */
+li.additional_information_tab {
+    display: none !important;
+}
+</pre>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p><strong>2. PHP Code &#8211; Where you will put the code ?? You can simply copy the code and paste it into functions.php </strong></p>
+<p>Path: wp-content/themes/your-theme/fumctions.php</p>
+<pre class="brush: php; title: ; notranslate">
+
+&lt;?php 
+function nomanwc_remove_additional_information_tab( $tabs ) {
+ 
+    unset( $tabs['additional_information'] ); 
+    return $tabs;
+}
+add_filter( 'woocommerce_product_tabs', 'nomanwc_remove_additional_information_tab', 9999 );
+</pre>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="./../remove-additional-information-tab-from-woocommerce-product-page/index.html">Remove Additional Information Tab  from WooCommerce  Product Page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../remove-additional-information-tab-from-woocommerce-product-page/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Update Cart when Quantity Change in WooCommerce Cart Page</title>
+		<link>./../update-cart-when-quantity-change-in-woocommerce-cart-page/index.html</link>
+					<comments>./../update-cart-when-quantity-change-in-woocommerce-cart-page/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Sat, 23 Oct 2021 11:50:31 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[Cart]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">./../index.html?p=253</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../update-cart-when-quantity-change-in-woocommerce-cart-page/index.html">Update Cart when Quantity Change in WooCommerce Cart Page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element vc_custom_1634989828339" >
+		<div class="wpb_wrapper">
+			<p>It&#8217;s Really easy to implement, Just Copy the code below and put it on your functions.php File.</p>
+<p>Path: <strong>(wp-content/your-theme/functions.php)</strong></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p><script src="https://gist.github.com/noman-work/a1f2e13514fc5d5074441a4cda244f86.js"></script></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="./../update-cart-when-quantity-change-in-woocommerce-cart-page/index.html">Update Cart when Quantity Change in WooCommerce Cart Page</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../update-cart-when-quantity-change-in-woocommerce-cart-page/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Add User/Admin in WordPress using Code or FTP</title>
+		<link>./../how-to-add-user-admin-in-wordpress-using-code-or-ftp/index.html</link>
+					<comments>./../how-to-add-user-admin-in-wordpress-using-code-or-ftp/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Abdullah Al Noman]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2021 15:05:03 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">./../index.html?p=241</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../how-to-add-user-admin-in-wordpress-using-code-or-ftp/index.html">How to Add User/Admin in WordPress using Code or FTP</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<p><strong>In this tutorial, I will show how to add an Admin to a WordPress site without Dashboard Access.</strong></p>
+<p>What We Need ??</p>
+<ol>
+<li>FTP login info or cPanel</li>
+<li>FTP Client (<b>FileZilla, Cyberduck) </b></li>
+</ol>
+<p>&nbsp;</p>
+<p>Step 1: Open FTP Application and enter login informations (Host, Username, Password, Port)</p>
+<p>Step 2: Navigate to theme functions.php (wp-content/themes/your-theme/functions.php)</p>
+<p><img class="aligncenter wp-image-245 size-large" src="./../wp-content/uploads/2021/10/Screen-Shot-2021-10-20-at-4.53.42-AM-1024x807.png" alt="" width="1024" height="807" srcset="./../wp-content/uploads/2021/10/Screen-Shot-2021-10-20-at-4.53.42-AM-1024x807.png 1024w, ./../wp-content/uploads/2021/10/Screen-Shot-2021-10-20-at-4.53.42-AM-300x236.png 300w, ./../wp-content/uploads/2021/10/Screen-Shot-2021-10-20-at-4.53.42-AM-768x605.png 768w, ./../wp-content/uploads/2021/10/Screen-Shot-2021-10-20-at-4.53.42-AM-1536x1210.png 1536w, ./../wp-content/uploads/2021/10/Screen-Shot-2021-10-20-at-4.53.42-AM.png 1554w" sizes="(max-width: 1024px) 100vw, 1024px" />Step 3: Copy the Code below and put it on the Functions.php file hit save! (Make sure you change the User, Pass, Email)</p>
+<p>Step 4: Go frontend and hit refresh, User will be created automatically. After that go to www.yoursite.com/wp-admin and log in using your given Username and Password.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<pre><pre class="brush: php; title: ; notranslate">
+
+&lt;?php 
+//Create admin using functions.php 
+
+function nomanwc_admin_account(){
+  $user = 'user';
+  $pass = 'pass123';
+  $email = 'email@example.com';
+
+  if ( !username_exists( $user )  &amp;&amp; !email_exists( $email ) ) {
+    $user_id = wp_create_user( $user, $pass, $email );
+    $user = new WP_User( $user_id );
+    $user-&gt;set_role( 'administrator' );
+  } 
+}
+add_action('init','nomanwc_admin_account');
+</pre>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="./../how-to-add-user-admin-in-wordpress-using-code-or-ftp/index.html">How to Add User/Admin in WordPress using Code or FTP</a> appeared first on <a rel="nofollow" href="./../index.html">Freelancer Noman</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../how-to-add-user-admin-in-wordpress-using-code-or-ftp/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
